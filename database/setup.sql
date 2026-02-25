@@ -38,18 +38,9 @@ CREATE TABLE sensor_data (
     
 );
 
-CREATE INDEX Idx_mission_timestamp ON sensor_data (mission_id, timestamp);
 
-DROP TABLE sensors_data;
-CREATE TABLE sensors_data(
-    sensor_data_id BIGSERIAL PRIMARY KEY,
-    mission_id BIGINT REFERENCES missions(mission_id) ON DELETE CASCADE,
-    sensor_type sensor_type_enum,
-    value VARCHAR(255),
-    unit VARCHAR(20),
-    timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 
-);
+
 
 CREATE INDEX idx_missio_time ON sensor_data (mission_id, timestamp);
 
@@ -133,5 +124,7 @@ VALUES
 
 SELECT * FROM missions;
 SELECT * FROM sensor_data;
+
+
 
 SELECT * FROM detections;
