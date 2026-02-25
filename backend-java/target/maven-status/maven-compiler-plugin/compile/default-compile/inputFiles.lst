@@ -1,0 +1,13 @@
+/mnt/c/Users/latif/OneDrive/robot-system/backend-java/src/main/java/com/robot/repository/DetectionRepository.java
+/mnt/c/Users/latif/OneDrive/robot-system/backend-java/src/main/java/com/robot/repository/SensorDataRepository.java
+/mnt/c/Users/latif/OneDrive/robot-system/backend-java/src/main/java/com/robot/repository/MissionRepository.java
+/mnt/c/Users/latif/OneDrive/robot-system/backend-java/src/main/java/com/robot/controller/DetectionController.java
+/mnt/c/Users/latif/OneDrive/robot-system/backend-java/src/main/java/com/robot/service/MissionService.java
+/mnt/c/Users/latif/OneDrive/robot-system/backend-java/src/main/java/com/robot/controller/MissionController.java
+/mnt/c/Users/latif/OneDrive/robot-system/backend-java/src/main/java/com/robot/model/SensorData.java
+/mnt/c/Users/latif/OneDrive/robot-system/backend-java/src/main/java/com/robot/controller/SensorController.java
+/mnt/c/Users/latif/OneDrive/robot-system/backend-java/src/main/java/com/robot/model/Mission.java
+/mnt/c/Users/latif/OneDrive/robot-system/backend-java/src/main/java/com/robot/RobotSystemApplication.java
+/mnt/c/Users/latif/OneDrive/robot-system/backend-java/src/main/java/com/robot/service/SensorService.java
+/mnt/c/Users/latif/OneDrive/robot-system/backend-java/src/main/java/com/robot/service/DetectionService.java
+/mnt/c/Users/latif/OneDrive/robot-system/backend-java/src/main/java/com/robot/model/Detection.java
